@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\aluno\eclipse-workspace\Estrutura_Dados_Senai_Marcio\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3875318327.index
+1569674141.index
