@@ -4,7 +4,7 @@ public class Estudos extends Aluno {
 	public static void main(String[] args) {
 		
 		Aluno aluno = new Aluno();
-		aluno.nome = "Aluno Esforçado";
+		aluno.nome = "JOÃO";
 		aluno.setIdade(34);
 		aluno.matricula = "09283421";
 		
